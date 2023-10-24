@@ -11,5 +11,6 @@ namespace HFT._6._11
         public string Name {  get; set; }
         public int Age { get; set; }
         public string Job { get; set; }
+        public bool HaveGlasses { get; set; }
     }
 }
